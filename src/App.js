@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <p>Bacground Removal Tool</p>
+        <p>Image Background Removal Tool</p>
       </header>
       <RemoveBG />
 
