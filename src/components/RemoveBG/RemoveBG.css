@@ -1,0 +1,34 @@
+.input {
+    background-color: rgb(69, 162, 255);
+    border-radius: 5vh;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    display: inline-flex;
+    margin: 2vh auto;
+    padding: 4vh;
+}
+
+.image {
+    background-color: rgb(69, 162, 255);
+    border-radius: 1vh;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    display: inline-flex;
+    margin: 2vh;
+    padding: 4vh;
+}
+
+#loading {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+}
+
+#result {
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
