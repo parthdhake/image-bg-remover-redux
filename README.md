@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Note :-
+
+This project is only meant as a sample for displaying how to use react-redux.
+In this project, there was absolutely no need to use react-redux as there is only one component
+i.e RemoveBG, here it is only used to showcase react-redux.
+
 
 ## Available Scripts
 
