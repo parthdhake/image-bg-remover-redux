@@ -1,7 +1,7 @@
 ## Note :-
 
-This project is only meant as a sample for displaying how to use react-redux.
-In this project, there was absolutely no need to use react-redux as there is only one component
+This project is only meant as a sample for showing how to use **react-redux**.
+In this project, there was **absolutely no need** to use react-redux as there is only one component
 i.e RemoveBG, here it is only used to showcase react-redux.
 
 
